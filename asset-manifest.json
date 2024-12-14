@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cheezits/static/css/main.47f608ee.css",
+    "main.js": "/cheezits/static/js/main.839dfe0e.js",
+    "index.html": "/cheezits/index.html",
+    "main.47f608ee.css.map": "/cheezits/static/css/main.47f608ee.css.map",
+    "main.839dfe0e.js.map": "/cheezits/static/js/main.839dfe0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f608ee.css",
+    "static/js/main.839dfe0e.js"
+  ]
+}
