@@ -1,0 +1,30 @@
+
+.dropdown-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 17px;
+}
+
+
+
+.forceLayout {
+  width: 100%;
+  height: 1000px;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.tweets-container {
+  margin-top: 20px;
+}
+
+.tweet-card {
+  padding: 15px;
+  margin: 10px 0;
+  background-color: #fff;
+}
+
+.tweet-card p {
+  font-size: 14px;
+  color: #333;
+}
